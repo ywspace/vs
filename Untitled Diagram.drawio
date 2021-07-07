@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T01:10:32.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.214 Safari/537.36" etag="cHLmL4bJ6dz7i7GhR0gb" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T03:22:53.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.214 Safari/537.36" etag="NwTBRc-YHVmaP_5JORz4" version="14.8.4" type="github">
   <diagram id="t-4Y7Y0Egl3iwmAaFjbk" name="Page-1">
     <mxGraphModel dx="1387" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,9 +103,6 @@
         <mxCell id="o1FIK1EitSxrQL2c7iuE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1FIK1EitSxrQL2c7iuE-17" target="o1FIK1EitSxrQL2c7iuE-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1FIK1EitSxrQL2c7iuE-17" target="o1FIK1EitSxrQL2c7iuE-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="o1FIK1EitSxrQL2c7iuE-17" value="销货单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60.5" y="820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -162,39 +159,6 @@
         </mxCell>
         <mxCell id="o1FIK1EitSxrQL2c7iuE-39" value="审核后生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="920" width="40" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1FIK1EitSxrQL2c7iuE-41" target="o1FIK1EitSxrQL2c7iuE-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1FIK1EitSxrQL2c7iuE-41" target="o1FIK1EitSxrQL2c7iuE-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-41" value="销货单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274" y="935" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-42" value="拒收入库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274.5" y="1075" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-43" value="审核后生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="283.5" y="1035" width="40" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-45" value="签收数量少于实发数量 且审核通过时生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="233.5" y="900" width="140" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1FIK1EitSxrQL2c7iuE-47" target="o1FIK1EitSxrQL2c7iuE-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-47" value="销货单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="935" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-48" value="拒收入库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460.5" y="1075" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-49" value="审核后生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="469.5" y="1035" width="40" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="o1FIK1EitSxrQL2c7iuE-51" value="签收数量少于实发数量 且审核通过时生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400.5" y="949" width="50" height="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
