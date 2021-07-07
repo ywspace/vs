@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T03:24:22.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.214 Safari/537.36" etag="GJd33641ejLW29QYIzqy" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T03:24:47.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.214 Safari/537.36" etag="ICmkucDZk7LMvdUMtg68" version="14.8.4" type="github">
   <diagram id="t-4Y7Y0Egl3iwmAaFjbk" name="Page-1">
     <mxGraphModel dx="1387" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="o1FIK1EitSxrQL2c7iuE-57" value="审核后生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="689" y="900" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="o1FIK1EitSxrQL2c7iuE-61" value="拣货量少于应拣量 则生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="681" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
