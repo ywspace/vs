@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T07:59:05.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.214 Safari/537.36" etag="IwlKpagz0QUKJRsWEe98" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T12:00:14.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.214 Safari/537.36" etag="ZEpytuqmiPHnVUp-eO-l" version="14.8.4" type="github">
   <diagram id="t-4Y7Y0Egl3iwmAaFjbk" name="Page-1">
     <mxGraphModel dx="1387" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,6 +189,18 @@
         </mxCell>
         <mxCell id="o1FIK1EitSxrQL2c7iuE-61" value="拣货量少于应拣量 则生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="681" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GtE0cavnArqcX0atf7Ze-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtE0cavnArqcX0atf7Ze-3" target="GtE0cavnArqcX0atf7Ze-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtE0cavnArqcX0atf7Ze-3" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;microsoftyahei&amp;#34; , , sans-serif ; font-size: 13px&quot;&gt;采购单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtE0cavnArqcX0atf7Ze-4" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;microsoftyahei&amp;#34; , , sans-serif ; font-size: 13px&quot;&gt;采购入库单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="663.5" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtE0cavnArqcX0atf7Ze-5" value="生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="593.5" y="380" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
